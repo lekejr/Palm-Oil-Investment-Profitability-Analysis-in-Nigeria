@@ -1,0 +1,3 @@
+Palm Oil Profitability Power BI Dashboard 
+
+Interactive Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiNmY3ODk3MmItZTBhYS00MWI5LWI3MzItNjdlYWViOGM3NTQ0IiwidCI6IjRkYWRkNTgyLTM1YTQtNGEzMy1hNDM4LTI1OTYwMDM3MjZkMCJ9
