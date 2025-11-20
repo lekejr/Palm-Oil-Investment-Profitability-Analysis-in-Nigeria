@@ -1,4 +1,4 @@
-#  Palm Oil Investment Profitability Analysis – Nigeria (2025)
+#  Palm Oil Investment Profitability Analysis – Nigeria
 
 A data-driven financial and agronomic evaluation of palm oil investment potential across major producing states in Nigeria.  
 This report provides **profitability modelling**, **state-by-state comparison**, **ROI & payback analysis**, and **scenario simulations** to guide investors targeting ₦1 billion annual profit.
